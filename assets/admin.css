@@ -1,0 +1,44 @@
+.wpir-wrap .form-table input[type="number"] {
+    width: 90px;
+}
+
+.wpir-wrap .form-table input[type="text"] {
+    width: 110px;
+}
+
+.wpir-settings {
+    max-width: 920px;
+}
+
+.wpir-batch {
+    max-width: 760px;
+}
+
+.wpir-category-select {
+    min-width: 280px;
+    margin: 8px 0 2px;
+}
+
+.wpir-progress {
+    max-width: 640px;
+    margin-top: 16px;
+}
+
+.wpir-progress-bar {
+    height: 14px;
+    overflow: hidden;
+    background: #dcdcde;
+    border-radius: 3px;
+}
+
+.wpir-progress-bar span {
+    display: block;
+    width: 0;
+    height: 100%;
+    background: #2271b1;
+    transition: width 160ms ease;
+}
+
+.wpir-status {
+    margin-top: 8px;
+}
